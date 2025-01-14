@@ -1,0 +1,16 @@
+{
+  "name": "mx.edu.utxj.ti.awi4.practica03",
+  "version": "1.0.0",
+  "description": "Manejo de Sesiónes en NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sayurid Bautista Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "moment-timezone": "^0.5.46"
+  }
+}
