@@ -7,4 +7,4 @@ moment-timezone y Express-session.
 
 |No.|Descripción|Potenciador|Estatus|
 |--|--|--|--|
-|03.|Manejo de Sesiónes|13|Pendiente|
+|03.|Manejo de Sesiónes|15|Pendiente|
